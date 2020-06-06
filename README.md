@@ -1,12 +1,12 @@
-[//]: # (Image References)
-
 
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I build a pipeline that can be used within a web app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, I build a pipeline that can be used within a web app to process real-world, user-supplied images.  Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  Check out my article on [Medium](https://medium.com/@amanjot.uf/dog-breed-classification-using-resnet50-and-vgg19-42133f631e7b)
 
-![Sample Output][image1]
+
+
+![Sample Output](images/sample_dog_output.png)
 
 Along with exploring state-of-the-art CNN models for classification, I had to make important design decisions about the user experience for my app.  I tackled the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  As each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  I hope my imperfect solution will nonetheless create a fun user experience!
 
@@ -102,7 +102,7 @@ Go to app folder and execute run.py
 
 ## Screenshots
 
-![screenshot1](Screenshots/Screenshot_2020-06-05 Python Flask Image Upload and Display Example.png)
-![screenshot2](Screenshots/Screenshot from 2020-06-05 04-37-40.png)
-![screenshot3](Screenshots/Screenshot_2020-06-05 Python Flask Image Upload and Display Example(1).png)
+![screenshot1](Screenshots/Menu.png)
+![screenshot2](Screenshots/ImagesUploading.png)
+![screenshot3](Screenshots/Result.png)
 
